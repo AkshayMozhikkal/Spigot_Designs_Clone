@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Acherus Grotesque';
+    src: local('Acherus Grotesque Black Italic'), local('Acherus-Grotesque-Black-Italic'),
+        url('AcherusGrotesque-BlackItalic.woff2') format('woff2'),
+        url('AcherusGrotesque-BlackItalic.woff') format('woff'),
+        url('AcherusGrotesque-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+  }
